@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+	text-align: center;
+	
+}
+.item{
+	width: 100%;
+	display: block;
+
+}
+
+form{
+	margin: 20px auto;
+}
+
+input{
+	font-size: 20px;
+}

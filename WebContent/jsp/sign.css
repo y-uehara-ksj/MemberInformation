@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+	text-align: center;
+	
+}
+input{
+	font-size: 20px;
+	margin: 10px 15px;
+
+}
+
+.button{
+	/*width: 50%;*/
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+.name{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.age{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.birthday{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select{
+	margin: 0 5px;
+}
